@@ -4,6 +4,7 @@
 <a href="https://pypi.python.org/pypi/auklet" alt="PyPi page link -- version"><img src="https://img.shields.io/pypi/v/auklet.svg" /></a>
 <a href="https://pypi.python.org/pypi/auklet" alt="PyPi page link -- Apache 2.0 License"><img src="https://img.shields.io/pypi/l/auklet.svg" /></a>
 <a href="https://pypi.python.org/pypi/auklet" alt="Python Versions"><img src="https://img.shields.io/pypi/pyversions/auklet.svg" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fjoey-fossa%2FAuklet-Agent-Python?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoey-fossa%2FAuklet-Agent-Python.svg?type=shield"/></a>
 [![Maintainability](https://api.codeclimate.com/v1/badges/4217e03b794e778bd0d0/maintainability)](https://codeclimate.com/github/aukletio/Auklet-Agent-Python/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/4217e03b794e778bd0d0/test_coverage)](https://codeclimate.com/github/aukletio/Auklet-Agent-Python/test_coverage)
 
@@ -113,3 +114,7 @@ To get support, report a bug or suggest future ideas for Auklet, go to https://h
 - [Python Documentation](https://docs.auklet.io/docs/python-integration)
 
 [brochure_site]: https://auklet.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoey-fossa%2FAuklet-Agent-Python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoey-fossa%2FAuklet-Agent-Python?ref=badge_large)
